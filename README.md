@@ -29,6 +29,32 @@ Java, Python, DBMS, Operating Systems, and Backend Development
 
 ⚡ **Fun Fact:**  
 I enjoy debugging and optimizing systems as much as building them.
+# 🚀 Competitive Programming Stats
+
+<!-- <p align="center">
+  <img height="200" src="https://leetcard.jacoblin.cool/ankitsgh1234?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=ankitsgh1234&theme=dark"/>
+</p> -->
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <img height="200" src="https://leetcard.jacoblin.cool/ankitsgh1234?theme=dark&font=Baloo&ext=heatmap"/>
+
+  <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=ankitsgh1234&theme=dark"/>
+
+</div>
+<!-- <p align="center">
+  <a href="https://www.codechef.com/users/ankitsgh1234">
+    <img src="https://img.shields.io/badge/CodeChef-ankitsgh1234-brown?style=for-the-badge&logo=codechef"/>
+  </a>
+</p>
+<p align="center">
+  <img height="200" src="https://gfgstatscard.vercel.app/ankitsgh1234"/>
+</p> -->
+
 # 🏆 Achievements
 
 ## 💻 Problem Solving
