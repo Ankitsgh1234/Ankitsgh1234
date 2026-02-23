@@ -42,7 +42,7 @@ I enjoy debugging and optimizing systems as much as building them.
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <img height="200" src="https://leetcard.jacoblin.cool/ankitsgh1234?theme=dark&font=Baloo&ext=heatmap"/>
-
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=ankitsgh1234&theme=dark"/>
 
 </div>
