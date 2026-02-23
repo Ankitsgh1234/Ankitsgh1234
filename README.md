@@ -1,5 +1,47 @@
-# 💫 Hi 👋, I'm Ankit Kumar Singh
-I’m a passionate Computer Science student who loves solving problems, building projects, and learning new technologies. I enjoy turning ideas into real-world applications and constantly improving my coding skills.<br><br>Computer Science Student | Software Development, Automation & DSA <br><br>🔭 I’m currently working on:<br>AI/ML projects, web development, and problem-solving using Java & Python<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, hackathons, and beginner-friendly AI or web projects<br><br>🤝 I’m looking for help with:<br>Advanced DSA, system design, and real-world AI implementations<br><br>🌱 I’m currently learning:<br>Data Structures & Algorithms, Machine Learning, and Full-Stack Development<br><br>💬 Ask me about:<br>Java, Python, DSA, DBMS, Operating Systems, and basic AI concepts<br><br>⚡ Fun fact:<br>I enjoy debugging more than writing code 😄
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF671F&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ankit+Kumar+Singh;I'm+20+years+old;I+am+from+India,+IN+UP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+ <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>  
+                                     <p align="center">  I'm a Passionate  </p> 
+                                     <p align="center">  Java 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ||  Problems Solved on DSA  || Frontend</p>
+      
+<br>
+<br>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+I am a Computer Science student with a strong interest in problem-solving, software development, and building practical solutions. I focus on writing clean, efficient, and scalable code while continuously strengthening my foundation in Data Structures & Algorithms.
+
+My core interests include Software Development, Automation, and AI-driven applications. I enjoy transforming ideas into real-world systems that are both functional and impactful.
+
+🔭 **Currently Working On:**  
+AI/ML-based applications, full-stack web development, and advanced problem-solving using Java & Python  
+
+🤝 **Open to Collaboration:**  
+Open-source contributions, hackathons, and innovative software projects  
+
+🌱 **Currently Learning:**  
+Advanced Data Structures & Algorithms, System Design, and Machine Learning  
+
+💬 **Technical Interests:**  
+Java, Python, DBMS, Operating Systems, and Backend Development  
+
+⚡ **Fun Fact:**  
+I enjoy debugging and optimizing systems as much as building them.
+# 🏆 Achievements
+
+## 💻 Problem Solving
+- ✅ Solved **500+ DSA problems** across coding platforms  
+- 🧠 Strong foundation in Data Structures & Algorithms  
+- 📈 Consistent practice in competitive programming  
+
+---
+
+## 🏅 Competitive Programming
+- 🚀 Regular participant in coding contests  
+- 📊 Improved ranking through consistent performance  
+- 🎯 Focused on optimizing time & space complexity  
 
 
 ## 🌐 Socials:
@@ -15,11 +57,19 @@ I’m a passionate Computer Science student who loves solving problems, building
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankitsgh1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankitsgh1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsgh1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ankitsgh1234&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+    <a href="https://github.com/Ankitsgh1234/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankitsgh1234's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsgh1234&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+
+<br/>
+<br/>
+
+[![Ankitsgh1234's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitsgh1234&theme=merko)](https://github.com/Ankitsgh1234/github-readme-activity-graph)
+
+<br/>
+<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
